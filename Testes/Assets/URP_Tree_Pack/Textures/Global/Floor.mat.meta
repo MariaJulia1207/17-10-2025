@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bcadda77c7c29724486b1b76196f8ec3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 253340
+  packageName: URP Tree Models
+  packageVersion: 1.2.3
+  assetPath: Assets/Tree_Packs/URP_Tree_Pack/Textures/Global/Floor.mat
+  uploadId: 755976
